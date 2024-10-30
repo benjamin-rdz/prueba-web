@@ -1,0 +1,83 @@
+[
+    {
+        "nombre": "Born To Die",
+        "descripcion": "Now my life is sweet like cinnamon, like a fucking dream I'm living in, baby, love me 'cause I'm playing on the radio",
+        "fecha": "2012",
+        "signo": "pop",
+        "foto": "https://raw.githubusercontent.com/benjamin-rdz/prueba-web/refs/heads/main/img2/btd%20(1).jpg",
+        "fotos": ["btd-1.jpg", "btd-2.jpg", "btd-3.jpg"],
+        "github": "https://github.com/benjamin-rdz"
+    },
+    {
+        "nombre": "Paradise",
+        "descripcion": "Been tryin' hard not to get into trouble, but i, i've got a war in my mind",
+        "fecha": "2012",
+        "signo": "pop",
+        "foto": "https://raw.githubusercontent.com/benjamin-rdz/prueba-web/refs/heads/main/img2/paradise%20(1).jpg",
+        "fotos": ["paradise-1.jpg", "paradise-2.jpg","paradise-3.jpg"],
+        "github": "https://github.com/benjamin-rdz"
+    },
+    {
+        "nombre": "Ultraviolence",
+        "descripcion": "Yeah, my boyfriend's pretty cool, but he's not as cool as me, 'cause I'm a Brooklyn baby",
+        "fecha": "2014",
+        "signo": "alternativo",
+        "foto": "https://raw.githubusercontent.com/benjamin-rdz/prueba-web/refs/heads/main/img2/uv%20(1).jpg",
+        "fotos": ["uv-1.jpg","uv-2.jpg","uv-3.jpg"],
+        "github": "https://github.com/benjamin-rdz"
+    },
+    {
+        "nombre": "Honeymoon",
+        "descripcion": "You're so Art Deco, out on the floor,shining like gun metal, cold and unsure",
+        "fecha": "2015",
+        "signo": "alt-pop",
+        "foto": "https://raw.githubusercontent.com/benjamin-rdz/prueba-web/refs/heads/main/img2/honeymoon%20(1).jpg",
+        "fotos": ["honeymoon-1.jpg","honeymoon-2.jpg","honeymoon-3.jpg"],
+        "github": "https://github.com/benjamin-rdz"
+    },
+    {
+        "nombre": "Lust for Life",
+        "descripcion": "Darlin', darlin', darlin'i fall to pieces when I'm with you, i fall to pieces",
+        "fecha": "2017",
+        "signo": "alt-pop",
+        "foto": "https://raw.githubusercontent.com/benjamin-rdz/prueba-web/refs/heads/main/img2/lfl%20(1).jpg",
+        "fotos": ["lfl-1.jpg","lfl-2.jpg","lfl-3.jpg"],
+        "github": "https://github.com/benjamin-rdz"
+    },
+    {
+        "nombre": "Norman F*cking Rockwell!",
+        "descripcion": "And who I've been is with you on these beaches, your Venice bitch, your die-hard, your weakness. Maybe I could save you from your sins.",
+        "fecha": "2019",
+        "signo": "alt-pop",
+        "foto": "https://raw.githubusercontent.com/benjamin-rdz/prueba-web/refs/heads/main/img2/nfr%20(1).jpg",
+        "fotos": ["nfr-1.jpg","nfr-2.jpg","nfr-3.jpg"],
+        "github": "https://github.com/benjamin-rdz"
+    },
+    {
+        "nombre": "Chemtrails Over the Countryclub",
+        "descripcion": "Well, I don't care what they think, drag racing my little red sports car. I'm not unhinged or unhappy, I'm just wild",
+        "fecha": "2021",
+        "signo": "alternativo",
+        "foto": "https://raw.githubusercontent.com/benjamin-rdz/prueba-web/refs/heads/main/img2/cocc%20(1).jpg",
+        "fotos": ["chem-1.jpg","chem-2.jpg","chem-3.jpg"],
+        "github": "https://github.com/benjamin-rdz"
+    },
+    {
+        "nombre": "Blue Banisters",
+        "descripcion": "There's a hole that's in my heart all my women try and heal, they're doin' a good job convincin' me that it's not real. It's heat lightning",
+        "fecha": "2021",
+        "signo": "alternativo",
+        "foto": "https://raw.githubusercontent.com/benjamin-rdz/prueba-web/refs/heads/main/img2/bb%20(1).jpg",
+        "fotos": ["bb-1.jpg","bb-2.jpg","bb-3.jpg"],
+        "github": "https://github.com/benjamin-rdz"
+    },
+    {
+        "nombre": "Did You Know That There's a Tunnel Under Ocean Blvd",
+        "descripcion": "I mean, look at me, look at the length of my hair, and my face, the shape of my body. Do you really think I give a damn what I do after years of just hearing them talking?",
+        "fecha": "2023",
+        "signo": "alt-pop",
+        "foto": "https://raw.githubusercontent.com/benjamin-rdz/prueba-web/refs/heads/main/img2/blvd%20(1).jpg",
+        "fotos": ["tunnel-1.jpg","tunnel-2.jpg","tunnel-3.jpg"],
+        "github": "https://github.com/benjamin-rdz"
+    },
+]
